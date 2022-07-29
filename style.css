@@ -1,0 +1,89 @@
+*{
+    font-family: Allerta;
+    
+}
+body{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+#navbarMonstera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 93%;
+    margin-left: 20px;
+}
+
+#navMid {
+    display: flex;
+    font-size: 20px;
+    padding: 0px 30px;
+}
+#navMid div h4 {
+    padding: 0px 40px;
+}
+#navMid div h4:hover{
+    text-decoration: underline;
+}
+#navEnd {
+    display: flex;
+    gap: 40px;
+}
+
+#midWhole {
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+    gap: 10px;
+}
+
+
+#monstera {
+    font-size: 100px;
+    padding: 0px;
+    margin: 0px 40px 0px 0px;
+}
+
+#midWholePart12 {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+div#midWholePart121 div h1{
+    font-size: 35px;
+    position: static;
+    display: inline;
+    border-radius: 16px;
+    padding: 5px 20px;
+    padding-right: 60px;
+    color: #fff;
+    background: #386641;
+    margin-left: 5%;
+
+}
+#midWholePart122 {
+    position: relative;
+    bottom: 35px;
+    left: 250px;
+}
+
+
+
+#midWholePart13 {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.midWholePart13Parts{
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    gap: 5px;
+}
+h4,p {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-size: small;
+}
